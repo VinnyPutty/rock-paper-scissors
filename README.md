@@ -1,2 +1,2 @@
 # rock-paper-scissors
-Classic Rock/Paper/Scissors written in Javascript
+Classic Rock/Paper/Scissors written in Python
